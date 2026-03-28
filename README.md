@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 
 - Import the u188377931_burger.sql file located in the project's root folder.
 
-- Now, in Visual Studio Code, in the project root, create a file called .env and paste the code from the Word document called BBDD.
+- Now, in Visual Studio Code, in the project root, create a file called .env and paste the code from the Word document called BBDD.dock.
 
 4. **Connection Config:**
 
