@@ -40,11 +40,11 @@ To run this project locally, follow these steps:
 
 - Import the u188377931_burger.sql file located in the project's root folder.
 
+- Now, in Visual Studio Code, in the project root, create a file called .env and paste the code from the Word document called BBDD.
 
 4. **Connection Config:**
 
-- Update the .env files, add only DB_DATABASE and DB_USERNAME.
-
+- Update the .env files; if I don't make any changes when importing the SQL script, it should work without changing any data. Also, check the port and       name data..
 
 5. **Launch:**
 - Once everything is done, type the following in the terminal: php artisan serv
