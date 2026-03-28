@@ -38,13 +38,12 @@ To run this project locally, follow these steps:
 
 - Access HeidiSQL application.
 
-- Create a database.
+- Import the u188377931_burger.sql file located in the project's root folder.
 
-- Import the .sql file located in the project's root folder.
 
 4. **Connection Config:**
 
-- Update the .env files with your local credentials.
+- Update the .env files, add only DB_DATABASE and DB_USERNAME.
 
 
 5. **Launch:**
