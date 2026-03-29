@@ -1,7 +1,5 @@
 # 🍔 Portal Burger - Order Management System
 
-[![imagen-2026-03-29-173251155.png](https://i.postimg.cc/KvRxN2Hr/imagen-2026-03-29-173251155.png)](https://postimg.cc/Mv2C6hxv)
-
 ## 🚀 Project Overview
 Portal Burger is a comprehensive web application designed to streamline order management for a burger restaurant. It allows customers to browse the menu and place orders intuitively, 
 while providing an administrative dashboard to manage inventory, process sales, and control the business workflow in real-time.
@@ -19,6 +17,8 @@ while providing an administrative dashboard to manage inventory, process sales, 
 - **Admin Dashboard:** Full control over inventory (Product CRUD).
 - **Sales Management:** Real-time tracking of orders and preparation status.
 - **Responsive Design:** Fully optimized for mobile and desktop devices.
+
+  [![imagen-2026-03-29-173251155.png](https://i.postimg.cc/KvRxN2Hr/imagen-2026-03-29-173251155.png)](https://postimg.cc/Mv2C6hxv)
 
 ## ▶️ Getting Started
 
