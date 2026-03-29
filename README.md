@@ -47,8 +47,8 @@ To run this project locally, follow these steps:
   DB_PASSWORD=your_password
 
 4. **Launch:**
-```bash
-php artisan serv
+  ```bash
+  php artisan serv
 
 - Open your browser and go to http://127.0.0.1:8000/
 
