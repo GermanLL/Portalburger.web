@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
 
 4. **Launch:**
     ```bash
-  php artisan serv
+    php artisan serv
 
 - Open your browser and go to http://127.0.0.1:8000/
 
