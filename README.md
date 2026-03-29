@@ -38,18 +38,16 @@ To run this project locally, follow these steps:
 
 3. **Database Setup:**
 
-- Access HeidiSQL application.
+- Import the file u188377931_burger.sql into MySQL
+- Create a .env file in the project root
+- Configure your database credentials:
+  
+  DB_DATABASE=your_database
+  DB_USERNAME=your_user
+  DB_PASSWORD=your_password
 
-- Import the u188377931_burger.sql file located in the project's root folder.
-
-- Now, in Visual Studio Code, in the project root, create a file called .env and paste the code from the Word document called BBDD.dock.
-
-4. **Connection Config:**
-
-- Update the .env files; if I don't make any changes when importing the SQL script, it should work without changing any data. Also, check the port and       name data..
-
-5. **Launch:**
-- Once everything is done, type the following in the terminal: php artisan serv
+4. **Launch:**
+- php artisan serv
 - Open your browser and go to http://127.0.0.1:8000/
 
 ## 🌍 Live Demo
