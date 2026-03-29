@@ -34,20 +34,22 @@ To run this project locally, follow these steps:
 
 - And also the HeidiSQL application.
   
-- Open the project in Visual Code and run "composer install" in the console.
+- Open the project in Visual Studio Code and run "composer install" in the console.
 
 3. **Database Setup:**
 
 - Import the file u188377931_burger.sql into MySQL
 - Create a .env file in the project root
 - Configure your database credentials:
-  
+  ```bash
   DB_DATABASE=your_database
   DB_USERNAME=your_user
   DB_PASSWORD=your_password
 
 4. **Launch:**
-- php artisan serv
+```bash
+php artisan serv
+
 - Open your browser and go to http://127.0.0.1:8000/
 
 ## 🌍 Live Demo
